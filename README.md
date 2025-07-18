@@ -6,23 +6,7 @@ This project provisions a secure, scalable web application infrastructure on AWS
 
 ## ✅ Architecture Overview
 
-```
-  Internet
-     │
-     ▼
-Public ALB (external)
-     │
-     ▼
-Proxy EC2 instances (public subnet with Nginx)
-     │
-     ▼
-Internal ALB (private subnet)
-     │
-     ▼
-Backend EC2 instances (Flask app)
-```
-
----
+![alt text](<Screenshot from 2025-07-18 20-26-02-3.png>)
 
 ## 🔧 Infrastructure Components
 
@@ -71,7 +55,7 @@ Backend EC2 instances (Flask app)
    ```bash
    terraform apply
    ```
-
+![alt text](<Screenshot from 2025-07-18 20-19-12.png>)
 ---
 
 ## 🖥️ Accessing the App
@@ -88,7 +72,7 @@ You should see:
 ```
 Hello from backend!
 ```
-
+![alt text](<Screenshot from 2025-07-18 20-20-12.png>)
 ---
 
 ## 📁 Project Structure
