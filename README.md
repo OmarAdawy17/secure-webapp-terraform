@@ -6,7 +6,8 @@ This project provisions a secure, scalable web application infrastructure on AWS
 
 ## ✅ Architecture Overview
 
-![alt text](<Screenshot from 2025-07-18 20-26-02-3.png>)
+<img width="1237" height="699" alt="Screenshot from 2025-07-18 20-26-02" src="https://github.com/user-attachments/assets/9dbb284d-c84a-4e2e-98fd-8326e4f459d7" />
+
 
 ## 🔧 Infrastructure Components
 
@@ -55,7 +56,7 @@ This project provisions a secure, scalable web application infrastructure on AWS
    ```bash
    terraform apply
    ```
-![alt text](<Screenshot from 2025-07-18 20-19-12.png>)
+<img width="1920" height="1080" alt="Screenshot from 2025-07-18 20-19-12" src="https://github.com/user-attachments/assets/22a57824-c30f-4ae6-b9e2-cee7d7d48c5a" />
 ---
 
 ## 🖥️ Accessing the App
@@ -72,7 +73,8 @@ You should see:
 ```
 Hello from backend!
 ```
-![alt text](<Screenshot from 2025-07-18 20-20-12.png>)
+<img width="1920" height="1080" alt="Screenshot from 2025-07-18 20-20-12" src="https://github.com/user-attachments/assets/6be36250-0f4b-4879-b837-7f441a492876" />
+
 ---
 
 ## 📁 Project Structure
